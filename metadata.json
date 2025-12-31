@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ethereal Echoes - Music & Sound Design",
+  "description": "A high-end personal portfolio for a singer-songwriter and game composer featuring music showcases, blog, contact portal, and an AI-powered image editing studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
